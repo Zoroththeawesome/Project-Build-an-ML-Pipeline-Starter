@@ -1,6 +1,7 @@
 #Per submission requirments 
 W&B link: https://wandb.ai/jacobalexanderstine-western-governors-university/nyc_airbnb/workspace?nw=nwuserjacobalexanderstine
-GitHub link: 
+
+GitHub link: https://github.com/Zoroththeawesome/Project-Build-an-ML-Pipeline-Starter.git
 
 
 
